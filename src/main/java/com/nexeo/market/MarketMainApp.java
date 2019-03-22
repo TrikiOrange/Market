@@ -1,6 +1,5 @@
 package com.nexeo.market;
 
-import java.util.HashMap;
 import java.util.Map;
 
 import com.nexeo.market.config.Configurations;
